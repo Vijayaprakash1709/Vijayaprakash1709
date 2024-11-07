@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Vijayaprakash M !
 
-<!--
-**Vijayaprakash1709/Vijayaprakash1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Open-Source Enthusiast</br>
+🌱 Full Stack Developer (MERN), [Java].</br>
+🚀 Passionate about building scalable applications and solving real-world problems.</br>
+📚 Sharing knowledge, contributing to open-source, and always improving.</br>
+✨ Interests: Machine Learning, Full Stack.</br>
+📩 Let’s connect: [[Linked In](https://www.linkedin.com/in/vijayaprakash-m-3a51a21b4/)].</br>
 
-Here are some ideas to get you started:
+![Vijayaprakash M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijayaprakash1709&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayaprakash1709&layout=donut)](https://github.com/Vijayaprakash1709/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Vijayaprakash1709/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
